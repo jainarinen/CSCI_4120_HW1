@@ -13,7 +13,7 @@ The values from "average_accuracy_for_k_values.csv" were manually inserted into 
 
 The best k value was k=9, with the highest accuracy score of 96%. This line graph shows a downward trend. This is likely because the higher the k value, the more dimensionality is introduced. The ratio becomes smaller between the dimensions and the predictions become less accurate.
 
-![Line Graph](/home/naomi/Desktop/CSCI_4120/KNN/CSCI_4120_HW1/linechart_knn.jpeg)
+![Line Graph](https://github.com/jainarinen/CSCI_4120_HW1/blob/main/linechart_knn)
 
 command to generate dependecies: "pip list"
 Dependencies:
